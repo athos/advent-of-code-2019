@@ -1,14 +1,14 @@
 # advent-of-code-2019
 
-A Clojure library designed to ... well, that part is up to you.
+My solutions for [Advent of Code 2019](https://adventofcode.com/2019) in Clojure
 
 ## Usage
 
-FIXME
+To check my solutions, try `clj -Atest`.
 
 ## License
 
-Copyright © 2019 FIXME
+Copyright © 2019 Shogo Ohta
 
 This program and the accompanying materials are made available under the
 terms of the Eclipse Public License 2.0 which is available at
